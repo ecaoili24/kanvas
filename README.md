@@ -1,4 +1,4 @@
-## Kanvas 
+## Kanvas
 
 A professional networking and job search site for both Software Engineer students and entry level developers.
 Users of Kanvas can create profiles and make connections to each other. It's an online social network designed for Software Engineers. Users can find available jobs in the area. Users can post/share tips on technical interviews. Users can create study groups. We want users to empower themselves and to build a strong community--not just a network. The important values that we want for our users to practice are: kindness, collaboration, and “giving back.”
