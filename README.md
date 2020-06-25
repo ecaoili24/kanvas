@@ -15,6 +15,7 @@ Users of Kanvas can create profiles and make connections to each other. It's an 
 - [Landing Page and Deployed App](#landing-page-and-deployed-application)
 - [Timeline of Build and Resources](#timeline-and-resources)
 - [Blog Posts about Kanvas](#blog-posts)
+- [Contributing](#contributing)
 - [Authors](#authors)
 
 ### Inspiration 
@@ -127,6 +128,22 @@ This is the file where we communicate with the GitHub Jobs API and receive job i
 - To read more about Backend development, read [Kevin's post](https://medium.com/@kevapostol/how-i-learned-the-mern-stack-in-24-days-b64f69e7dba6)
 
 - To read more about Project Management and Deployment, read [Erika's post](https://medium.com/@erikacaoili/building-my-first-full-stack-web-app-remotely-with-my-team-4d32d62fd856)
+
+### Contributing 
+
+We invite you to improve Kanvas because we believe in collaborating with others to build better applications. We only as that you 
+- update the README
+- follow the style, color, and font
+- message us about new features you want to implement 
+- check spelling and grammar
+
+### Related Projects 
+
+None 
+
+### Licensing 
+
+None
 
 ### Authors
 
