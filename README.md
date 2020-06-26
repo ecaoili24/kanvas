@@ -131,10 +131,11 @@ This is the file where we communicate with the GitHub Jobs API and receive job i
 
 ### Contributing 
 
-We invite you to improve Kanvas because we believe in collaborating with others to build better applications. We only as that you 
+We invite you to improve Kanvas because we believe in collaborating with others to build better applications. We only ask that you 
+
 - update the README
 - follow the style, color, and font
-- message us about new features you want to implement 
+- message us about new features to implement 
 - check spelling and grammar
 
 ### Related Projects 
